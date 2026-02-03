@@ -11,10 +11,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fyough&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fyough&theme=dark&hide_border=true"/>
-</p>
    
 <!--
 **fyough/fyough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
