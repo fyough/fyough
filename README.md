@@ -21,7 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=fyough&style=for-the-badge&color=2f2f2f" alt="Visitors">
   <br>
   <a href="https://ko-fi.com/buddychewchew">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy Me A Coffee at ko-fi.com"></a>
+  <img src="https://img.shields.io/badge/Donate%20KO--FI-2f2f2f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate Ko-fi">
+</a>
   <a href="https://buymeacoffee.com/buddychewchew"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-2f2f2f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a> 
   <a href="https://github.com/fyough/My-Streams/blob/main/Donate/readme.md"><img src="https://img.shields.io/badge/Donate%20In%20Crypto-2f2f2f?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate In Crypto"></a>
   <br>
